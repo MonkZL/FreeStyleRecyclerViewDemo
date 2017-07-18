@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         FreeStyleRecyclerView list = (FreeStyleRecyclerView) findViewById(R.id.list);
-//        GridLayoutManager layout = new GridLayoutManager(this, 2);
-        LinearLayoutManager layout = new LinearLayoutManager(this);
+        GridLayoutManager layout = new GridLayoutManager(this, 2);
+//        LinearLayoutManager layout = new LinearLayoutManager(this);
         list.setLayoutManager(layout);
         list.setAdapter(new RecyclerView.Adapter() {
             @Override

@@ -91,7 +91,9 @@ public class FreeStyleRecyclerView extends RecyclerView {
                         if (i <= 1) {
                             View childAt0 = getChildAt(i);
                             ViewGroup.LayoutParams layoutParams0 = childAt0.getLayoutParams();
-                            layoutParams0.height = (int) (targetHeight + (childAt0.getTop() * 1f / defaultHeight) * (targetHeight - defaultHeight));
+                            int top = childAt0.getTop();
+                            top = top <= -defaultHeight ? -defaultHeight : top;
+                            layoutParams0.height = (int) (targetHeight + (top * 1f / defaultHeight) * (targetHeight - defaultHeight));
                             childAt0.requestLayout();
                         } else if (i <= 3) {
                             View childAt1 = getChildAt(i);
