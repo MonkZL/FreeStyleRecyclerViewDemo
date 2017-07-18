@@ -20,14 +20,14 @@
 <P><h3>使用方式：</h3></p>
 
    <pre><code> 
-   <zl.com.freestylerecyclerview.FreeStyleRecyclerView
+   &lt;zl.com.freestylerecyclerview.FreeStyleRecyclerView
         android:id="@+id/list"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         app:defaultHeight="100dp"
         app:targetHeight="300dp" />
-	</code></pre>
+	</code></pre>/&gt;
 
     
         
