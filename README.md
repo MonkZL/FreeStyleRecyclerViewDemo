@@ -1,8 +1,6 @@
 # FreeStyleRecyclerViewDemo
+```compile 'com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0'
 
-<div class="highlight highlight-source-groovy">
-compile '</span>com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0<span class="pl-pds">'
-</div>
 
 
 
