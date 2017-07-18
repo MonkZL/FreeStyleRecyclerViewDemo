@@ -30,6 +30,7 @@
 	</code></pre>
 
     
-        
-    defaultHeight是最小高度
-    targetHeight是最大高度
+     
+   <pre><h4> defaultHeight是最小高度</h4></pre>   
+   <pre><h4> targetHeight是最大高度</h4></pre>   
+
