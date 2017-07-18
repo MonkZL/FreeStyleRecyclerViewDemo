@@ -1,8 +1,20 @@
 # FreeStyleRecyclerViewDemo
 
-<P><h1>Add it in your root build.gradle at the end of repositories:</h1></p>
+<P><h3>Add it in your root build.gradle at the end of repositories:</h3></p>
 
-<p>compile 'com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0'</p>
+<pre><code>	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}</code></pre>
+    
+<P><h3> Add the dependency</h3></p>
+
+   <pre><code>	dependencies {
+	        compile 'com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0'
+	}
+</code></pre>
 
 
 
