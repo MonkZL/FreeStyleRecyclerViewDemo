@@ -1,14 +1,10 @@
 # FreeStyleRecyclerViewDemo
 
 <div class="highlight highlight-source-groovy">
-<pre>compile
-<span class="pl-s">
-<span class="pl-pds">
-'</span>com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0<span class="pl-pds">'
-</span>
-</span>
-</pre>
+compile '</span>com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0<span class="pl-pds">'
 </div>
+
+
 
 
 使用方式：
