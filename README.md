@@ -1,5 +1,5 @@
 # FreeStyleRecyclerViewDemo
-```compile 'com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0'
+    compile 'com.github.Monkeynessss:FreeStyleRecyclerViewDemo:1.0.0'
 
 
 
