@@ -26,8 +26,8 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         app:defaultHeight="100dp"
-        app:targetHeight="300dp" />
-	</code></pre>/&gt;
+        app:targetHeight="300dp" /&gt;
+	</code></pre>
 
     
         
