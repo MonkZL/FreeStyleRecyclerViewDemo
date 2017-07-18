@@ -10,6 +10,7 @@
 </pre>
 </div>
 
+
 使用方式：
   <zl.com.freestylerecyclerview.FreeStyleRecyclerView
         android:id="@+id/list"
