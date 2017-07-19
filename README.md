@@ -1,7 +1,11 @@
 # FreeStyleRecyclerViewDemo
 
-<P><h3>Add it in your root build.gradle at the end of repositories:</h3></p>
 
+<P><h3>GridLayoutManager</h3></p>
+<img src="https://github.com/Monkeynessss/FreeStyleRecyclerViewDemo/blob/master/app/gif/GridLayoutManager.gif" style="max-width:100%;">
+<P><h3>LinearLayoutManager</h3></p>
+<img src="https://github.com/Monkeynessss/FreeStyleRecyclerViewDemo/blob/master/app/gif/LinearLayoutManager.gif" style="max-width:100%;">
+<P><h3>Add it in your root build.gradle at the end of repositories:</h3></p>
 <pre><code>	allprojects {
 		repositories {
 			...
