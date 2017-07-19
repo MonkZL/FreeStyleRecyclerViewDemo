@@ -35,7 +35,7 @@
 
     
      
-   <pre>defaultHeight是最小高度
-     targetHeight是最大高度</pre>   
+   <pre>defaultHeight是默认高度
+     targetHeight是目标高度</pre>   
 
 
